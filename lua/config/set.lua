@@ -21,7 +21,8 @@ vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
 vim.opt.termguicolors = true
-vim.cmd.colorscheme("pywal")
+-- vim.cmd.colorscheme("pywal")
+vim.cmd.colorscheme("base16-black-metal-bathory")
 
 vim.opt.scrolloff = 8
 vim.opt.signcolumn = "yes"
